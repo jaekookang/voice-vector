@@ -1,5 +1,12 @@
 # Text-independent voice vectors
 
+## Note
+- 2019-06-10 Jaekoo, tested
+  - [] Run successfully
+  - [] Annotated
+
+---
+
 ## Subtitle: which of the Hollywood stars is most similar to my voice?
 >* Authors: Dabi Ahn(andabi412@gmail.com), [Noah Jung](https://github.com/giallo41), [Jujin Lee](https://github.com/zeze-zzz) and [Kyubyong Park](https://github.com/Kyubyong)
 >* [Demo: Check out who your voice is like!](https://voice-vector-web.andabi.me/)
